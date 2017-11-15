@@ -1,0 +1,11 @@
+#materialize h1,
+#materialize h2,
+#materialize h3,
+#materialize h4,
+#materialize h5,
+#materialize h6 {
+  margin: 0 0 20px;
+}
+#materialize .parallax-container {
+  height: 480px;
+}

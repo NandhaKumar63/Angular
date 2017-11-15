@@ -1,0 +1,14 @@
+{
+  "name": "materialize",
+  "version": "0.0.1",
+  "description": "materialize theme POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nandharagav",
+  "license": "MIT",
+  "dependencies": {
+    "materialize-css": "^0.100.2"
+  }
+}

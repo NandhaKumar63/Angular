@@ -1,0 +1,5 @@
+#node_modules dependencies folder
+/node_modules
+
+# miscellaneous
+npm-debug.log
